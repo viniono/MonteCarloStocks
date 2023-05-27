@@ -1,0 +1,14 @@
+name: Finance_324
+title: Finance_324
+username:
+account: viniono
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7384445
+bundleId: 6429057
+url: https://viniono.shinyapps.io/Finance_324/
+when: 1666405883.04325
+lastSyncTime: 1666405883.04326
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app.R|server.R|ui.R
